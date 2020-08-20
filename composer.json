@@ -1,15 +1,19 @@
 {
-  "name": "$vendor_name$/$package_name$",
-  "description": "$description$",
-  "minimum-stability": "$stability$",
-  "license": "$license$",
+  "name": "diraliss/codeigniter.quieto.ru",
+  "description": "The CodeIgniter test project",
+  "minimum-stability": "stable",
+  "license": "MIT",
   "authors": [
-    {
-      "name": "$author$",
-      "email": "$email$"
-    }
+	{
+	  "name": "diraliss",
+	  "email": "diraliss@ya.ru"
+	}
   ],
   "require": {
-    $END$
+	"php": ">=7.*"
+  },
+  "require-dev": {
+	"mikey179/vfsStream": "1.1.*",
+	"phpunit/phpunit": "4.* || 5.*"
   }
 }
