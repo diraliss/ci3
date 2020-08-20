@@ -1,5 +1,3 @@
-.idea
-
 .DS_Store
 
 application/cache/*
@@ -32,3 +30,4 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 /tests/tests/
 /tests/results/
 /user_guide/
+composer.phar

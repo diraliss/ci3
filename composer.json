@@ -1,5 +1,5 @@
 {
-  "name": "diraliss/codeigniter.quieto.ru",
+  "name": "diraliss/codeigniter.quieto",
   "description": "The CodeIgniter test project",
   "minimum-stability": "stable",
   "license": "MIT",
@@ -10,10 +10,10 @@
 	}
   ],
   "require": {
-	"php": ">=7.*"
+	"php": "7.*"
   },
   "require-dev": {
-	"mikey179/vfsStream": "1.1.*",
+	"mikey179/vfsstream": "1.1.*",
 	"phpunit/phpunit": "4.* || 5.*"
   }
 }
